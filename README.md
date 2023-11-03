@@ -1,9 +1,24 @@
-TVBoxOSC
-Build Channel Download Total
+Github RAW 加速服务
+源码 https://gitcdn.top/https://github.com/用户名/仓库名/raw/main/接口文件
 
-Credits
-This repo relies on the following third-party projects:
+香港 https://raw.iqiq.io/用户名/仓库名/main/接口文件
 
-CatVodTVOfficial/TVBoxOSC
-q215613905/TVBoxOS (Updated: 59a5d9f8a13c7a20ccbfa958a1c2e5960290fa54)
-takagen99/Box (Updated: a63f6f8bcee5418fbfc18a9fbad0922385b4e1c2)
+新加坡 https://raw.kgithub.com/用户名/仓库名/main/接口文件
+
+日本
+
+https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件
+
+https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
+
+https://raw.fastgit.org/用户名/仓库名/main/接口文件
+
+韩国
+
+https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
+
+https://ghproxy.net/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
+
+https://gcore.jsdelivr.net/gh/用户名/仓库名@main/接口文件
+
+https://raw.githubusercontents.com/用户名/仓库名/main/接口文件
