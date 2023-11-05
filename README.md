@@ -1,8 +1,5 @@
 
-
-
 Github RAW 加速服务
-
 
 源码 https://gitcdn.top/https://github.com/用户名/仓库名/raw/main/接口文件
 
@@ -10,17 +7,13 @@ Github RAW 加速服务
 
 新加坡 https://raw.kgithub.com/用户名/仓库名/main/接口文件
 
-日本
-
-https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件
+日本https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
 https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
 
 https://raw.fastgit.org/用户名/仓库名/main/接口文件
 
-韩国
-
-https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
+韩国https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
 
 https://ghproxy.net/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
 
