@@ -15,7 +15,15 @@
 {
      "sourceName": "💖🏠蘑菇放辣椒🏠💖",
       "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/TVBox/main/ck.json"
- 
-      }
-  ]
+    },
+{
+     "sourceName": "💖🏠青山不改🏠💖",
+      "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/2008hanbing/box/main/qsbg.json"
+    },
+{
+     "sourceName": "💖🏠绿水长流🏠💖",
+      "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/2008hanbing/box/main/lscl.json"
+  }
+  
+]
 }
