@@ -1,6 +1,6 @@
 {
 "spider": "https://d.kstore.space/download/6613/1/20240108.jar",
-"spider": "./0",
+//"spider": "./0",
 "warningText": "🎥影视资源来自网络完全免费🎥",
 "sites":[
 
