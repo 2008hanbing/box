@@ -28,7 +28,9 @@
 
 {"key":"dj03","name":"📹短剧┃03线","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.52.241.21:83/api.php/app/"},
 
-{"key":"dj04","name":"📹短剧┃04线","type":1,"api":"http://zzdj.cc/api.php/provide/vod"},
+
+
+{ "key": "横院", "name": "📹横版┃04线", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] },
 
 {"key":"push_agent","name":"追忆TV","jar":"http://tvbox.aleoe.cc/uploads/itvbox/default_custom_spider.jar","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"27b06d5221a24199b15f2e573d847430"},
 
