@@ -501,16 +501,7 @@
 
 {"key":"xx03","name":"📚初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/初中课堂.json"},
 
-{"key":"xx04","name":"📚高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"},
-
-{"key": "01","name": "🎥资源完全免费🎥","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-{"key": "02","name": "🎥切勿付费购买🎥","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-{"key": "03","name": "🎵资源完全免费🎵","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-{"key": "04","name": "🎵切勿付费购买🎵","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-{"key": "05","name": "💃资源完全免费💃","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-{"key": "06","name": "💃切勿付费购买💃","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-{"key": "07","name": "📺资源完全免费📺","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-{"key": "08","name": "📺切勿付费购买📺","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0}
+{"key":"xx04","name":"📚高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"}
 
 ],
 
