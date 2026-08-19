@@ -1,137 +1,834 @@
 {
   "urls": [
-    
     {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "🍚饭太硬线[在线]🍚"
-    },       
-                         
-   {
-      "url": "http://www.mpanso.com/小米/DEMO.json",
-      "name": "🐥小米线路[在线]🐥"
-    },       
-          
-    {
-      "url": "http://肥猫.com",
-      "name": "🐼肥猫线路[在线]🐼"
-    },
-    
-    {
-      "url": "https://11256.kstore.space/TWYS/api.json",
-      "name": "🍒天微线路[在线]🍒"
+      "name": "更新于:2026-08-19 16:35:56",
+      "url": "https://mpimg.cn/?page=1",
+      "status": "可用（访问异常，已保留）"
     },
     {
-       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-       "name": "🐖PG线路[在线]🐖"
-    }, 
+      "name": "🌟潇洒单仓pro",
+      "url": "https://gh-proxy.org/https://github.com/niuber/niuber/raw/refs/heads/main/tvbox/TVBoxOSC/tvbox/api.json",
+      "status": "可用（状态码：200）"
+    },
     {
-      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-      "name": "🧙‍♂️道长线路[在线]🧙‍♂️"
+      "name": "🌟饭太硬",
+      "url": "http://www.饭太硬.cc/tv",
+      "status": "可用（访问异常，已保留）"
     },
-    
-
     {
-      "url": "http://tvbox.王二小放牛娃.xyz",
-      "name": "🐮王二小线[在线]🐮"
+      "name": "🌟王小二",
+      "url": "http://tvbox.王二小放牛娃.top",
+      "status": "可用（访问异常，已保留）"
     },
-
-    
-                  
-        {
-      "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-      "name": "💡D佬魔改[在线]💡"
+    {
+      "name": "🌟牛二(新接口)",
+      "url": "https://9280.kstore.vip/newwex.json",
+      "status": "可用（状态码：200）"
     },
-        {
+    {
+      "name": "🌟蜂蜜",
+      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/fongmi.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌟南风",
+      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌟肥猫",
+      "url": "http://肥猫.net",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌟香雅情",
+      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌟dxawi",
+      "url": "https://dxawi.github.io/0/0.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌟OK",
+      "url": "https://play.iptv365.org/OK/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌟小米",
+      "url": "https://play.iptv365.org/小米/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌟骚零",
+      "url": "https://play.iptv365.org/骚零/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌟天天开心",
+      "url": "https://play.iptv365.org/天天开心/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌟白嫖",
+      "url": "https://play.iptv365.org/白嫖/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌟小虎斑",
+      "url": "https://play.iptv365.org/小虎斑/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌟讴歌",
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌟讴歌TV",
+      "url": "http://tv.nxog.top/m",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌟菜妮丝",
+      "url": "https://tv.菜妮丝.top",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌟真心",
+      "url": "https://www.252035.xyz/z/FongMi.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌟道长",
+      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/drjs_config.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌟少儿频道",
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🤓网络🤓",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/dianshi.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "githnb2",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "香雅情",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "饭太硬",
+      "url": "http://www.饭太硬.net/tv",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "饭太硬(备用)",
+      "url": "http://www.饭太硬.art/tv",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "小虎斑",
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "小凯弟",
+      "url": "https://jihulab.com/jyqhkd1/kai/-/raw/main/机缘巧盒凯弟.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "摸鱼儿",
+      "url": "http://摸鱼儿.cc",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "南风",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "小米",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "周宇分享",
+      "url": "http://47.96.82.41:5188",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "抖音接口",
+      "url": "https://gitee.com/arlen29/blplay/raw/master/B2.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "4K分享",
+      "url": "https://52xiaobai.cn/ceshi/api.php",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "放牛娃口",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "饭太硬2碗",
+      "url": "http://fty.888484.xyz/tv",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "4K接口B",
+      "url": "http://tv.4kbox.top/4k/index.php",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "4K空空C",
+      "url": "https://kong88.dpdns.org/4k.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "4K影探D",
+      "url": "http://www.lyyytv.cn/yt/yt.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "4K宝盒E",
+      "url": "http://宝盒接口.top",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "青龙接口",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "青龙4K",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/2.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "青龙白虎",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/白虎/白虎.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "如意接口",
+      "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "欧歌主口1",
+      "url": "https://xn--bjjb-rp5imh.v.nxog.top/apitv.php?id=1",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "讴歌主口2",
+      "url": "https://xn--anna-wn6lw489o.v.nxog.top/m",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "影视仓口",
+      "url": "http://www.影视仓.com",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "小刘线路",
+      "url": "https://raw.liucn.cc/box/m.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "蓝田线路",
+      "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "蓝天线路",
+      "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "CandyMu",
       "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-      "name": "🍇CandyMu[在线]🍇"
+      "status": "可用（访问异常，已保留）"
     },
-    
-
-     {
-      "url": "https://cn.kstore.space/download/2863/01.txt",
-      "name": "🔥潇洒空间[在线]🔥"
-    },
-     {
-       "url": "https://100km.top/0",
-       "name": "🍊Ray线路[在线]🍊"
-     },	
     {
+      "name": "不具名源",
+      "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "龙潭接口",
+      "url": "https://gitee.com/hu-congrong/ltcw/raw/main/cbh.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "gitee818",
+      "url": "https://gitee.com/hu-congrong/ltcw/raw/main/818.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "天微接口",
+      "url": "https://cccimg.com/down.php/65d804dde9c2ad49bf5c1146003d7900.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "摸鱼接口",
+      "url": "http://我不是.摸鱼儿.com",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "短剧接口",
+      "url": "https://gitee.com/hu-congrong/dj/raw/master/dj.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "动漫主口",
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "动漫频道",
+      "url": "http://xhztv.top/dc/%E5%8A%A8%E6%BC%AB%E9%A2%91%E9%81%93/api.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "神仙线路",
+      "url": "http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "驸马影视",
+      "url": "http://fmys.top/fmys.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "软件教程",
+      "url": "https://d.kstore.dev/download/6514/kjdxl.txt",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "大佬接口",
+      "url": "https://tv.203511.xyz/0821.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "荷城茶秀",
+      "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "木木接口",
+      "url": "https://gitee.com/bbstudou/tvbo/raw/master/11tv.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "小鱼干接口",
+      "url": "http://xhztv.top/dc/%E5%B0%8F%E9%B1%BC%E5%B9%B2/api.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "玄珠接口",
+      "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "聚玩盒子",
+      "url": "http://xhztv.top/xhz/",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "宝盒视界",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "瑜豪影视",
+      "url": "https://gitee.com/pmam/yuhao-video/raw/master/%E7%91%9C%E8%B1%AA%E5%BD%B1%E8%A7%86.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "盒子迷口",
+      "url": "https://盒子迷.top/禁止贩卖",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "欧歌接口",
+      "url": "https://tv.nxog.top/m/?&jPi?&LVF",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "神秘大佬",
+      "url": "https://gitee.com/sydl2/bhmb/raw/master/ygbh.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "多咪接口",
+      "url": "https://d.kstore.dev/download/4071/api/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "蓝天白云",
+      "url": "https://gitee.com/ltby1/vip/raw/master/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "天神lY",
+      "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/api.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "4K影视",
+      "url": "https://gitee.com/zxj77/mao/raw/master/xj.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "东哥线路",
+      "url": "https://gitee.com/dong2274560336/film-and-television-interface/raw/master/fty.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "鸟叔接口",
+      "url": "https://raw.githubusercontent.com/laozi4vip/JellyZYC/main/niaoshu/tongyong.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "优质接口",
+      "url": "https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "👖天天&巧计",
+      "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/tiantian.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖api",
+      "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖潇洒",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xuelong876/mybox_PG/main/xiaosa.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖南风影视",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖小马",
+      "url": "https://szyyds.cn/tv/x.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "👖aowu",
+      "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/aowu.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖fantaiying",
+      "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/fantaiying.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖feimao",
+      "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/feimao.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖wangxiaoer",
+      "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/wangxiaoer.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖xiaobudian",
+      "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/xiaobudian.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖xiaomi",
+      "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/xiaomi.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖xiaosa",
+      "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/xiaosa.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖xxooo",
+      "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/xxooo.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖junlao",
+      "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/junlao.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖qist/tvbox",
+      "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖科技长青",
+      "url": "https://13413.kstore.space/tv/changqing.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖聚玩盒子",
+      "url": "http://xhztv.top/4k.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "👖菜妮丝",
       "url": "https://tv.xn--yhqu5zs87a.top",
-      "name": "💞菜妮丝线[在线]💞"
+      "status": "可用（访问异常，已保留）"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-      "name": "💗香雅情线[在线]💗"
-    },
-    
-    {
-      "url": "https://gh.aptv.app/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🌪南风线路[在线]🌪"
-    },
-   
-
-    {
-      "url": "http://jin.锦哥哥.love",
-      "name": "🇨🇳一十线路[在线]🇨🇳"
-    },
-     
-
-    {
-      "url": "http://ok321.top/tv",
-      "name": "🐱OK猫开发[在线]🐱"
-    },
-
-    {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "name": "🌊高天流云[在线]🌊"
+      "name": "👖刺刺音乐",
+      "url": "https://d.kstore.dev/download/4684/hgrc.json",
+      "status": "可用（状态码：200）"
     },
     {
-      "url": "http://home.jundie.top:81/top98.json",
-      "name": "🐱俊佬线路[在线]🐱"
+      "name": "👖蜗牛科技",
+      "url": "https://tv.蜗牛.top/svip",
+      "status": "可用（状态码：200）"
     },
     {
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
-      "name": "🦐欧歌在线[在线]🦐"
+      "name": "👖采集",
+      "url": "http://zhangqun1818.serv00.net/zq/api.json",
+      "status": "可用（访问异常，已保留）"
     },
-    
     {
-      "url": "http://yuhuahx.com/育华学堂/斧头帮.php",
-      "name": "🌹恒星线路[在线]🌹"
+      "name": "👖欧歌",
+      "url": "https://xn--reer-rp5imh.v.nxog.top/api.php?id=3",
+      "status": "可用（访问异常，已保留）"
     },
-    
-
-       {
-      "url": "https://2912.kstore.space/0506.json",
-      "name": "✍🏻西夏线路[在线]✍🏻"
+    {
+      "name": "👖东曦视界",
+      "url": "https://box.iqinu.com/",
+      "status": "可用（访问异常，已保留）"
     },
-
-   
-   {
-      "url": "https://龙伊.top",
-      "name": "🐉龙伊横短[在线]🐉"
+    {
+      "name": "👖天微",
+      "url": "https://play.iptv365.org/天微/api.json",
+      "status": "可用（状态码：200）"
     },
-   
-       {
+    {
+      "name": "👖香雅情",
+      "url": "https://play.iptv365.org/香雅情/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖未知",
+      "url": "https://play.iptv365.org/戏曲音乐/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖分享者",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖环宇轩",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖小脑斧",
+      "url": "https://6492.kstore.space/xnf/xnf.json",
+      "status": "可用（状态码：401）"
+    },
+    {
+      "name": "👖FongMi",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖非凡",
+      "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖乐哥短剧",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖花生",
+      "url": "https://o.nxog.top/apitv.php?id=9",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "👖傻逼线路（验证码777）",
       "url": "https://fmbox.cc",
-      "name": "🌠星辰线路[在线]🌠"
+      "status": "可用（访问异常，已保留）"
     },
     {
-      "url": "http://meowtv.cn/tv",
-      "name": "🐱喵影视源[在线]🐱"
-    },   
-    {
-      "url": "https://cn.kstore.space/download/2883/0110.txt",
-      "name": "🐜蚂蚁线路[在线]🐜"
+      "name": "👖无名之辈",
+      "url": "https://4708.kstore.space/svip/svip.json",
+      "status": "可用（状态码：401）"
     },
-
     {
-      "url": "http://itvbox.cc/云星日记",
-      "name": "☁云星日记[在线]☁"
+      "name": "👖南风",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "status": "可用（状态码：200）"
     },
-
     {
-      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
-      "name": "🍒短剧大全[在线]🍒"
+      "name": "👖残月",
+      "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👖心动",
+      "url": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710249147893/xdcj.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "👖PG本地包",
+      "url": "https://www.252035.xyz/p/jsm.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "👖小哥哥",
+      "url": "http://47.96.82.41:3/",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "👖全影多仓",
+      "url": "http://影视仓.com/",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "👖夏天微风",
+      "url": "https://11405.kstore.space/xiaye/qk4k.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "艺星⭐接口",
+      "url": "https://gitee.com/frankfurt-exhibition/yixing/raw/master/yixing.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "4K分享",
+      "url": "https://fzl4k.xyz",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "4K接口B",
+      "url": "https://gitee.com/yuan301/tv/raw/master/ok.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🐼肥猫🐼",
+      "url": "http://肥猫.net/tv",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🐂王二小🐮",
+      "url": "https://9280.kstore.vip/aiwex.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🐿️嗷呜🐿️",
+      "url": "http://www.英格里希嗷呜.top/tv",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "💫潇洒💫",
+      "url": "https://9877.kstore.space/one.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🐟摸鱼🐟",
+      "url": "http://www.小不点.com",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🤓东篱🤓",
+      "url": "https://16151.kstore.space",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "👿小米👿",
+      "url": "https://www.tangsan.fun/tv",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌈欧歌🌈",
+      "url": "https://欧歌.v.nxog.top/m/",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "📚道长📚",
+      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "饭太硬备用",
+      "url": "http://fty.xxooo.cf/tv",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "七星",
+      "url": "http://7337.kstore.space/qxys/禁止传播.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "俊于",
+      "url": "http://home.jundie.top:81/top98.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "1",
+      "url": "https://jihulab.com/237331946/2/-/raw/main/live.txt",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "2",
+      "url": "http://west.shaonv.me/tvbox/live.txt",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "3",
+      "url": "http://api.lmxsd.cn/2485.txt",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "4",
+      "url": "https://live.hacks.tools/tv/iptv4.txt",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "5",
+      "url": "https://live.hacks.tools/tv/iptv4.m3u",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "8",
+      "url": "https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "9",
+      "url": "https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "10",
+      "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "11",
+      "url": "https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "12",
+      "url": "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "❤️iptv365",
+      "url": "https://play.iptv365.org/iptv365/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "❤️宝盒",
+      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "❤️高天流云",
+      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "❤️挺好",
+      "url": "https://ztha.top/TVBox/thdjk.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌵动漫频道",
+      "url": "http://xhztv.top/dc/动漫频道/api.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌵哈基米",
+      "url": "https://17264.kstore.space/哈基米.png",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌵影视资源",
+      "url": "http://bp.tvbox.cam",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌵神仙",
+      "url": "http://xhztv.top/dc/神仙/api.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌵东篱线路",
+      "url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌵短剧",
+      "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌵短剧频道",
+      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌵网友分享",
+      "url": "https://raw.githubusercontent.com/maoystv/6/main/000.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌱苹果",
+      "url": "https://pastebin.com/raw/gtbKvnE1",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🌱小苹果",
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌱南瓜",
+      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "🌱东篱",
+      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+      "status": "可用（状态码：200）"
+    },
+    {
+      "name": "❌玩偶",
+      "url": "https://gitee.com/blssss/jk/raw/api/bls.json",
+      "status": "可用（访问异常，已保留）"
+    },
+    {
+      "name": "🔥🔥此请勿传播！！！🔥🔥",
+      "url": "http://2008hanbing.web3v.work/",
+      "status": "可用（访问异常，已保留）"
     }
   ]
 }
